@@ -1,4 +1,8 @@
 # 💫 About Me:
+    
+<img src="/IMAGES/457015860_10229776113660902_2729841391041408158_n.jpg" width="300" height="320" alt="Image description">
+
+
 33 anni, Fondi (LT) <br><br>Passione Informatica<br><br>Animatore presso villaggi turistici<br><br>Graphic Designer presso Agenzia Visions<br><br>Aspirante Web Developer 
 
 
